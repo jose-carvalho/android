@@ -19,6 +19,8 @@ package com.owncloud.android;
 import android.app.Application;
 import android.content.Context;
 
+import com.mycryptovault.android.BuildConfig;
+import com.mycryptovault.android.R;
 import com.owncloud.android.datamodel.ThumbnailsCacheManager;
 import com.owncloud.android.lib.common.OwnCloudClientManagerFactory;
 import com.owncloud.android.lib.common.OwnCloudClientManagerFactory.Policy;

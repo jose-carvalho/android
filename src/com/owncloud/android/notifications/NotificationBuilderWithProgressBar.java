@@ -17,7 +17,7 @@
 
 package com.owncloud.android.notifications;
 
-import com.owncloud.android.R;
+import com.mycryptovault.android.R;
 
 import android.app.Notification;
 import android.content.Context;

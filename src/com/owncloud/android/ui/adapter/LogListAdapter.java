@@ -2,7 +2,7 @@ package com.owncloud.android.ui.adapter;
 
 import java.io.File;
 
-import com.owncloud.android.R;
+import com.mycryptovault.android.R;
 
 import android.content.Context;
 import android.content.Intent;

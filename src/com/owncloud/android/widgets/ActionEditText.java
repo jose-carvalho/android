@@ -21,7 +21,7 @@ package com.owncloud.android.widgets;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
-import com.owncloud.android.R;
+import com.mycryptovault.android.R;
 
 import android.content.Context;
 import android.content.res.TypedArray;

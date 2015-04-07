@@ -17,7 +17,7 @@
 
 package com.owncloud.android.ui.activity;
 
-import com.owncloud.android.R;
+import com.mycryptovault.android.R;
 
 import android.app.Activity;
 import android.content.ClipData;

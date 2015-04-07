@@ -32,7 +32,7 @@ import android.os.Build;
 import android.text.format.DateUtils;
 
 import com.owncloud.android.MainApp;
-import com.owncloud.android.R;
+import com.mycryptovault.android.R;
 import com.owncloud.android.datamodel.OCFile;
 
 /**
